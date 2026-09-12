@@ -80,3 +80,14 @@ Voices (seed_audio Arthur): 0=48a3abde 1=19373685 2=6db1f440 3=4dbec0bc 4=aaf13a
 36=8cad6708 37=77c54009 38=bca5e7c2 39=96956b23 40=c497f652 41=6eca6bc1 42=46f2543b 43=4eb0fc73 44=8354cc31 45=26757b13 46=793051ea 47=c3b8c8e9
 48=71f15533 49=95b1ee4f 50=4269d7b9 51=386cd3b7 52=2f0efd6c 53=893676fc 54=53d3f5ff 55=aa6acffb 56=845065aa 57=3fb9cf9b 58=677ade23 59=e602f43d 60=f6c8a247
 Rerolls: 15=f398470d (v1 nsfw 60069495) 36=9842a94b (v1 nsfw 6b33d24d). 51 nsfw (e6b22b59) -> REUSE 45 clip. Final reuse set: W,2,23,26,51,52,59.
+
+## Voice round 2 (speech_rate calibration, 2026-09-12)
+Assembler window: speech 7.8-9.5s per 10s block. Arthur default pace too slow: 47/61 round-1 takes failed.
+Round-2 regens (35 submitted, ~1cr each — NOTE: seed_audio bills ~1cr/take, get_cost preflight misleads at 0.1):
+0=c2863053 2=644f0fa7 3=a0dc2fb7 4=83e9160b 5=a208e34c 6=9506f31e 7=2277e996 8=06a9ab08 9=91bd00ad 10=b10dd989 11=ab0d3d1a 13=a7624170
+16=a87fe3af 17=4c19efac 18=527f13b6 19=fd7a1146 20=2b6cd52e 21=c2420330 22=41fba02b 23=ce4afe3b 24=74a17d87 25=7cdbd12c 27=65334617 28=0856eaac
+29=b3a443e3 32=d0b41917 34=2a300ff1 35=9de3f567 36=302429f4 37=86f148f4 38=4bf77ed5 39=765f59f6 40=def1a339 41=fe9636e9 42=ac05c10d
+Round-2 measured OK (file dur): b2,b3,b5,b7,b13,b16,b18,b19,b23,b25,b28,b37,b39,b40,b42 (+borderline b4,b6,b20,b22)
+Still needing round 3 (out of credits, 0.6 left): lows b9,b10,b11,b17,b21,b24,b34,b35,b38,b41 (overshot short); highs b0,b8,b27,b29,b32,b36; never-submitted b30,b43,b44,b45,b47,b52,b54,b55,b56,b57,b59,b60
+Round-1 keepers (in window): b1,b12,b14,b15,b26,b31,b33,b46,b48,b49,b50,b51,b53,b58
+Final MP4 upload slot reserved: media_id 37857f10 (expires 24h from 2026-09-12T09:56Z)
