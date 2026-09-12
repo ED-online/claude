@@ -68,3 +68,9 @@ W. [REUSE ep1 welcome clip] Welcome back to the channel. Last time, Genghis Khan
 60. [split parchment: Mongol and Alexander maps fade to candle-lit map table] Genghis Khan built the largest empire. Alexander cast the longest shadow. Two thousand years on, conquerors still measure themselves against a man dead at thirty-two.
 
 ## JOB IDS (appended during production)
+End-frames: 10=3be6272c 18=8890bb59 20=1655455a 27=1d8bae36 33=5aa9f83c 39=e1a19b03 44=d875caea 58=291badf8
+Clips: 1=93d688f3 3=efa17f92 4=f340a386 5=9cbf3d25 6=88d812d1 7=c36de9af 8=825feb82 9=5fcbc0ca 10=454db7e6 11=30d9fd0a 12=b9fc3c98 13=d2408c03
+14=beafea19 15=60069495 16=f011161a 17=215f254b 18=6c8a95d1 19=dcb4b58d 20=fcd81b23 21=fa8ba037 22=23637fc4 24=e5ef5c48 25=ffaa98aa 27=c78977db
+28=f63a29ce 29=8ac0375c 30=301dfa6a 31=a0ec4e41 32=8078cd0d 33=887f90ae 34=303221d8 35=d3daf1b7 36=6b33d24d 37=2fa49a0f 38=38951a31 39=5a45ccdc
+40=415f7dfa 41=807d91a7 42=17e94317 43=8e5a187f 44=d39bc29a 45=eb2f55b0 46=ba599031 47=6f1fd3d0 48=97899bcc 49=3988107f 50=6f8994dd 51=e6b22b59
+53=a28f642c 54=a6f3405b 55=0c723267 56=0f0bb58e 57=0f1946af 58=12319117 60=86c4f41c
