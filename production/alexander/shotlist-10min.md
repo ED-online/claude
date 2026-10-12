@@ -95,3 +95,10 @@ Final MP4 upload slot reserved: media_id 37857f10 (expires 24h from 2026-09-12T0
 ## FINAL voice roster (verified speech 7.8-9.5s, 2026-10-12)
 0=27747a30 1=19373685 2=644f0fa7 3=a0dc2fb7 4=7077372a 5=a208e34c 6=33a229df 7=4a619b90 8=f89c0b94 9=7e279a50 10=75e214a1 11=a2dab658 12=57debc93 13=a7624170 14=4f09ff9b 15=0e092089 16=a87fe3af 17=7369e709 18=60a902b4 19=fd7a1146 20=283965f0 21=4bc834e1 22=d7c5dc23 23=ce4afe3b 24=5c87681a 25=7cdbd12c 26=31ded751 27=0d74a276 28=6bb9eeaf 29=e9728a84 30=2340f346 31=047386da 32=cb1f98c0 33=23928356 34=cb8c2b4d 35=6d816cd6 36=a068fdd5 37=8f9d3de1 38=48567e9b 39=765f59f6 40=def1a339 41=a724c339 42=d21e85ae 43=c96589a6 44=b12524b6 45=c3ebd80d 46=793051ea 47=bd3bff93 48=71f15533 49=e3cf73af 50=4269d7b9 51=386cd3b7 52=e700ca93 53=893676fc 54=f309d784 55=4cc790b0 56=732df33c 57=e6b5b0bb 58=677ade23 59=5cda47e8 60=e1a6c7dd
 Line-text updates in final cut: b11 "provincial governors / very first day" wording; b26 "aimed once again directly"; b59 "two decades / single battle / that record" wording.
+
+## FINAL DELIVERY (2026-10-12)
+Replacement takes in final cut: b3=255f8e7f b15=accb2957 b17=49f3240f b18=8b2dd6e6 b19=bc600d78 b36=aa1b44bc b37=5705f40a b41=54c4b5ce b50=a2f7a92d
+Assembly: faceless-video finish_video.sh, 61 blocks, receipts DONE 610.347s decode-validated, sidecar 61/61 per-block speech metrics.
+Fixes during assembly: all 61 block clips' audio re-encoded in sandbox to uniform AAC 48kHz trimmed to video duration (fixed concat AAC-config corruption at block 5 boundary and the +1.008s priming drift).
+Known quirk: audio stream 610.35s vs video 610.04s (~0.3s accumulated AAC priming silence at tail; inaudible).
+FINAL URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/21769384-2f79-4844-b46a-2f1cc9fc4dd3.mp4 (media_id 21769384-2f79-4844-b46a-2f1cc9fc4dd3, confirmed uploaded)
