@@ -4,10 +4,11 @@
 How Alexander the Great Became the Most Feared General in History (10 Minute Summarized Story)
 
 ## THUMBNAILS (4K, video-style, two-layer baked text)
-A (portrait + burning Persepolis, BEAST style): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/f307e208-0a62-4344-9498-c34d18cb7600.png
-B v2 (rearing horse over burning conquest map, FIRE hook moved to LEFT so rider is fully visible — definitive): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/28adff74-315c-4fe9-91a5-c3f2f11c129f.png
-B v1 (superseded; hook at top overlapped the rider): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/3f14dc5a-6645-4c62-8e41-7de48b79b787.png
-Clean renders (no text): c62cf4c3 (A), 2831e611 (B). Character refs: frames from ep. clips 13 & 49 (3dbfd4f2, 523eb886). Two photoreal drafts (565b63c4, 0d2e97ea) superseded by style-matched versions.
+DEFINITIVE — hair-matched to the episode's character design (short cropped light-brown, per clip-13 frame):
+A v2 (portrait + burning Persepolis; BEAST hook bottom, badge top): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/746536a6-5e26-4b31-8832-53f16ca4514b.png
+B v3 (rearing horse over burning conquest map; FIRE hook left, badge bottom): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/fba0243d-65b6-4d85-acf4-f20650e4550b.png
+Clean renders (no text, hair-matched): 5f866d1a (A), b69001d1 (B). Character refs: frames from ep. clips 13 & 49 (3dbfd4f2, 523eb886).
+Superseded (blond-hair versions): A v1 f307e208, B v2 28adff74, B v1 3f14dc5a; their clean renders c62cf4c3 / 2831e611; photoreal drafts 565b63c4 / 0d2e97ea.
 
 ## DESCRIPTION
 He was twenty when he took the throne. By thirty-two he was dead — and in the twelve years between, he conquered everything from Greece to the edge of India without losing a single battle.
