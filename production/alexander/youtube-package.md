@@ -4,11 +4,11 @@
 How Alexander the Great Became the Most Feared General in History (10 Minute Summarized Story)
 
 ## THUMBNAILS (4K, video-style, two-layer baked text)
-DEFINITIVE — hair-matched to the episode's character design (short cropped light-brown, per clip-13 frame):
-A v2 (portrait + burning Persepolis; BEAST hook bottom, badge top): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/746536a6-5e26-4b31-8832-53f16ca4514b.png
-B v3 (rearing horse over burning conquest map; FIRE hook left, badge bottom): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/fba0243d-65b6-4d85-acf4-f20650e4550b.png
+DEFINITIVE — hair-matched to the episode's character design (short cropped light-brown, per clip-13 frame), "10 MINUTE STORY" badge at ~55% of hook size (baked on a 5504x1700 transparent canvas, composited at +0+100 top / +0+1292 bottom):
+A v3 (portrait + burning Persepolis; BEAST hook bottom, small badge top): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/eb4c4e32-1cf8-4fa7-a5b9-be723264cca9.png
+B v4 (rearing horse over burning conquest map; FIRE hook left, small badge bottom): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/ab8e6f2f-b8eb-4a02-8d44-548e6b8d0ed0.png
 Clean renders (no text, hair-matched): 5f866d1a (A), b69001d1 (B). Character refs: frames from ep. clips 13 & 49 (3dbfd4f2, 523eb886).
-Superseded (blond-hair versions): A v1 f307e208, B v2 28adff74, B v1 3f14dc5a; their clean renders c62cf4c3 / 2831e611; photoreal drafts 565b63c4 / 0d2e97ea.
+Superseded: full-size-badge versions A v2 746536a6 / B v3 fba0243d; blond-hair versions A v1 f307e208, B v2 28adff74, B v1 3f14dc5a; their clean renders c62cf4c3 / 2831e611; photoreal drafts 565b63c4 / 0d2e97ea.
 
 ## DESCRIPTION
 He was twenty when he took the throne. By thirty-two he was dead — and in the twelve years between, he conquered everything from Greece to the edge of India without losing a single battle.
