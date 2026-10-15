@@ -4,11 +4,12 @@
 How Alexander the Great Became the Most Feared General in History (10 Minute Summarized Story)
 
 ## THUMBNAILS (4K, video-style, two-layer baked text)
-DEFINITIVE — hair-matched to the episode's character design (short cropped light-brown, per clip-13 frame), "10 MINUTE STORY" badge at ~55% of hook size (baked on a 5504x1700 transparent canvas, composited at +0+100 top / +0+1292 bottom):
-A v3 (portrait + burning Persepolis; BEAST hook bottom, small badge top): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/eb4c4e32-1cf8-4fa7-a5b9-be723264cca9.png
-B v4 (rearing horse over burning conquest map; FIRE hook left, small badge bottom): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/ab8e6f2f-b8eb-4a02-8d44-548e6b8d0ed0.png
+DEFINITIVE — hair-matched character (short cropped light-brown, per clip-13 frame), small "10 MINUTE STORY" badge (~55% of hook), yellow "ALEXANDER THE GREAT" name (#FFD500, beast style patched fill, baked on transparent canvas):
+A v4 (portrait + burning Persepolis; badge top, yellow name above white hook at bottom): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/b39b49d6-d24d-4261-84d5-729ce3ee9de8.png
+B v5 (rearing horse over burning conquest map; yellow name top-left sky, FIRE hook left, badge bottom): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/f7eda187-9e0c-4def-8d8f-2b89f424de52.png
+Name-layer recipe: A = 5504x2100 transparent canvas, position bottom, composite +0-60; B = 4000x1700, position top, composite +100+60.
 Clean renders (no text, hair-matched): 5f866d1a (A), b69001d1 (B). Character refs: frames from ep. clips 13 & 49 (3dbfd4f2, 523eb886).
-Superseded: full-size-badge versions A v2 746536a6 / B v3 fba0243d; blond-hair versions A v1 f307e208, B v2 28adff74, B v1 3f14dc5a; their clean renders c62cf4c3 / 2831e611; photoreal drafts 565b63c4 / 0d2e97ea.
+Superseded: no-name versions A v3 eb4c4e32 / B v4 ab8e6f2f; full-size-badge A v2 746536a6 / B v3 fba0243d; blond-hair A v1 f307e208, B v2 28adff74, B v1 3f14dc5a; their clean renders c62cf4c3 / 2831e611; photoreal drafts 565b63c4 / 0d2e97ea.
 
 ## DESCRIPTION
 He was twenty when he took the throne. By thirty-two he was dead — and in the twelve years between, he conquered everything from Greece to the edge of India without losing a single battle.
