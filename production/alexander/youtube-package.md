@@ -13,7 +13,7 @@ He was twenty when he took the throne. By thirty-two he was dead — and in the 
 
 This is the complete story of Alexander the Great in 10 minutes: the boy who tamed Bucephalus, the student of Aristotle, the general who cut the Gordian Knot, built a bridge through the sea to take Tyre, out-thought Darius at Issus and Gaugamela, burned Persepolis, crossed the Hindu Kush in snow, broke two hundred war elephants at the Hydaspes — and was finally stopped not by an enemy, but by his own exhausted army.
 
-Episode 2 of the Great Conquerors series. Watch Episode 1 — Genghis Khan: [link]
+Episode 2 of the Great Conquerors series. Watch Episode 1 — Genghis Khan: https://youtu.be/OPABY3BvvH0
 
 CHAPTERS
 0:00 The man every conqueror is measured against
