@@ -92,3 +92,18 @@ W. [reuse ep1 welcome clip 1329e19e — new voice] "Welcome back to HistoryVID. 
 
 ## JOB IDS
 (filled in during production)
+
+## VOICE ROSTER — FINAL (all 51 takes pass 7.8–9.5s speech gate, measured -50dB silenceremove)
+Format: block = job_id (speech s) [URL stamp hf_YYYYMMDD_HHMMSS]
+W=7f0114de(9.34)[20261025_204731] 1=4b209e31(8.66)[204731] 2=48cf453a(7.85)[203706] 3=8d2ce64d(8.32)[204731] 4=b21b9e30(8.79)[203706] 5=50d7ea07(7.81)[204731] 6=07435867(8.97)[204731] 7=8832fa5b(8.63)[203705] 8=08151075(8.80)[203706] 9=cd7d44c0(9.24)[204731] 10=1ad24367(8.51)[204731] 11=ae6fd109(7.92)[205131] 12=f59bd8f5(9.15)[205132] 13=6773da14(7.99)[205659] 14=799b15d3(7.97)[203752] 15=431d5d2c(8.25)[205659] 16=32d7fe81(9.05)[20261026_050033] 17=5d168988(8.03)[204753] 18=cf294e6a(8.09)[205132] 19=589a35ce(9.28)[205132] 20=eaba9d2a(9.13)[205659] 21=ee82c091(9.41)[204753] 22=08585b15(8.04)[205232] 23=a8cd0666(9.22)[203752] 24=ea0286fb(7.94)[203830] 25=131ef51a(8.27)[204753] 26=8017ccb2(8.30)[204754] 27=8837557b(8.11)[20261026_050217] 28=bea88650(8.77)[20261026_050033] 29=dae32b2b(8.16)[205232] 30=60d8a96c(8.12)[204754] 31=400f1ec3(8.37)[203829] 32=ac057888(8.19)[203829] 33=2b5fb825(8.32)[205232] 34=5787c344(8.57)[204816] 35=2356cf61(8.62)[204816] 36=1d02253e(9.38)[203951] 37=5b163a93(8.64)[203951] 38=beeb76d7(8.31)[204816] 39=4b75b5e2(8.08)[204816] 40=07dedac3(8.47)[205232] 41=50983f7b(8.99)[20261026_050033] 42=c2ee7da2(7.88)[20261026_045448] 43=cd8433a0(7.96)[20261026_050033] 44=b2cf51bd(8.04)[20261026_045448] 45=9d03a573(9.41)[203953] 46=68ce723e(8.17)[204816] 47=c42453de(9.34)[204816] 48=1956e392(9.11)[204829] 49=ab4b3278(8.07)[205308] 50=e0865a94(9.34)[205308]
+All [HHMMSS]-only stamps are 20261025. ~158 takes used across 5 rounds (1 failed job, 420).
+
+## TEXT REVISIONS DURING VOICE CALIBRATION (final narration differs from draft above)
+16: "The line held, and then it advanced. Speed, conditioning and presence. That was the entire system, and his enemies never found an answer to it."
+22: "His doctors prescribed rest and quiet. Caesar prescribed himself the exact opposite. More movement, more campaigns, more miles, more responsibility than any man in Rome."
+27: "You do not get to choose the weaknesses of your own body. You only get to choose the response you give them, every single day of your life."
+40: "The Roman line begins to buckle. And this is the moment Julius Caesar stops being a general, and becomes a legend."
+41: "He throws on his scarlet commander's cloak, the red cloak every soldier knows, and rides straight into the breach of the northern wall."
+
+## CLIP REUSE PLAN (budget): new clips 46 of 50
+W ← ep1 welcome 1329e19e · 16 ← 15 (Sambre front line) · 24 ← 23 (campaign-life montage) · 39 ← 37 (assault on the walls) · 49 ← 17 (lead-from-front)
