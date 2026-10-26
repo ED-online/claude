@@ -107,3 +107,9 @@ All [HHMMSS]-only stamps are 20261025. ~158 takes used across 5 rounds (1 failed
 
 ## CLIP REUSE PLAN (budget): new clips 46 of 50
 W ← ep1 welcome 1329e19e · 16 ← 15 (Sambre front line) · 24 ← 23 (campaign-life montage) · 39 ← 37 (assault on the walls) · 49 ← 17 (lead-from-front)
+
+## CLIP JOB IDS (seedance_2_0 fast 720p 10s 16:9, style key c773f44c; submitted 2026-10-26)
+End frames (nano_banana_flash): EF6=8eff1907 EF13=ff3dfe24 EF30=40d44c49 EF34=bf81f737
+1=284fcae6 2=8cdf4c95 3=098ccfe2 4=7bd879ba 5=f39e6261 6=1c71bdaf(EF) 7=dfec5112 8=98876972 9=2de62fd9 10=491eecc1 11=bc479475 12=f7dd6422 13=b18af335(EF) 14=65a2cf79 15=e4b41440 17=7ae53078 18=9c722a42 19=31f139de 20=dfa76829 21=b29f7b3d 22=231b7368 23=2dd03df1 25=58611309 26=babe5fb9 27=a01c9fdf 28=c0ac26ad 29=88a4ee2f 30=15e93b97(EF) 31=ec81cd26 32=1801dff8 33=685f37ca 34=4451ca0a(EF) 35=d1a255b2 36=db9beff2 37=161dcf8b 38=66890bc7 40=0c3473c5 41=75aa59eb 42=0298bbbf 43=62c0be41 44=cbf72edd 45=9fa5dfb5 46=cf6f12f6 47=d93ec109 48=37e48b5c 50=c76e6a47
+Reuses: W=ep1 welcome 1329e19e · 16=15 · 24=23 · 39=37 · 49=17
+Note: preset recommendation blocker now also fires with id 24bae836 ("IN THE DARK") — pass whichever id the rejection names.
