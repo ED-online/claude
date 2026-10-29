@@ -6,11 +6,13 @@ How Julius Caesar Pushed His Body & Mind to the Limit (8 Minute Story)
 ## VIDEO
 https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/55e2ef1b-ae69-4bba-a54c-cbc67b4435fd.mp4
 
-## THUMBNAILS (4K, video-style, hair/face/armor locked to episode character refs; yellow name #FFD500, small badge ~55% of hook)
-A (portrait at the walls of Alesia in the rain; badge top, yellow JULIUS CAESAR + white PUSHED TO THE LIMIT bottom): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/da99f98a-a24a-4784-aac0-b6f5959c8d65.png
-B (galloping through the rain ahead of the legion; yellow name top-left, FIRE hook left, badge bottom): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/f789541b-9835-4950-9eed-9c4890901261.png
+## THUMBNAILS v2 — DEFINITIVE (4K, full title integrated as stacked text; character locked to episode refs)
+Full sentence on both: yellow "HOW JULIUS CAESAR" (#FFD500) + "PUSHED HIS / BODY & MIND / TO THE LIMIT" + small "8 MINUTE STORY" badge.
+A v2 (portrait at the walls of Alesia in the rain; badge top, title block bottom): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/cf33b216-9aca-4c3e-9b41-9cc1e3f0f783.png
+B v2 (galloping ahead of the legion; title block left, badge bottom): https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/df019cf3-2133-41c0-99aa-e36e8ecfd8c6.png
+Superseded v1 (short-hook versions): A da99f98a, B f789541b.
 Clean renders (no text): 269a1c52 (A), 4a8d14b0 (B). Character refs: frames from ep. clips 5 @5s (ridge, media 1508783f) and 41 @3s (face on horseback, media dc0d879c). Design lock: short silver-grey hair, laurel wreath, clean-shaven stern face, dark segmented armor with pteruges, crimson cloak.
-Bake recipe: hook "Pushed to the Limit" (A beast/bottom, B fire/left); name "Julius Caesar" yellow patched-beast (A 5504x2100 canvas pos bottom composited +0-60, B 4000x1700 pos top +100+60); badge "8 Minute Story" clean-glass on 5504x1700 canvas (A top +0+100, B bottom +0+1292).
+Bake recipe v2 (bake tool wraps any line over ~17 chars; stack transparent-canvas layers): A = badge_top(5504x1700 clean-glass top)+0+100, yellow kick "How Julius Caesar" (5504x1700 beast bottom)+0+166, "Pushed His Body & Mind" (5504x2100 beast bottom, auto-wraps to 2 lines)+0+519, "To the Limit" (5504x2100 beast bottom)+0+940. B = badge_bot+0+1292, kick (4000x1300)+80+0, "Pushed His Body" fire (4000x1500)+80+119, "& Mind to the Limit" fire (4000x1500, wraps 2 lines)+80+663.
 
 ## DESCRIPTION
 He conquered Gaul, crossed the Rubicon and rewrote history — while fighting a body that kept trying to stop him.
