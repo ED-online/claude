@@ -4,7 +4,7 @@
 How Julius Caesar Pushed His Body & Mind to the Limit (8 Minute Story)
 
 ## VIDEO
-https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/55e2ef1b-ae69-4bba-a54c-cbc67b4435fd.mp4
+https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/46203600-4ebb-4c20-8992-7615efbf62c7.mp4
 
 ## THUMBNAILS v2 — DEFINITIVE (4K, full title integrated as stacked text; character locked to episode refs)
 Full sentence on both: yellow "HOW JULIUS CAESAR" (#FFD500) + "PUSHED HIS / BODY & MIND / TO THE LIMIT" + small "8 MINUTE STORY" badge.
