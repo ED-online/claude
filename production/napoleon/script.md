@@ -144,7 +144,7 @@ W: Welcome back to HistoryVID, where today we break down the mental stamina of t
 58 c7109833-a995-4ef2-b730-e1e487860a64 [153203] 8.272
 59 ec6fd8bb-f855-4bc6-a29d-b08c29839263 [150904] 8.729
 
-## CLIP JOB IDS (seedance_2_0 fast 720p 10s 16:9, style key c773f44c; REUSES: W=ep1 intro 1329e19e[20260708_092804], 16=15, 29=20, 52=47, 53=2, 55=11, 57=30)
+## CLIP JOB IDS — all 53 new clips completed; URL stamps hf_20261114_1611xx/1613xx/1614xx/1615xx (see sandbox /home/user/nap/asm/clips.txt), rerolls 193248 (seedance_2_0 fast 720p 10s 16:9, style key c773f44c; REUSES: W=ep1 intro 1329e19e[20260708_092804], 16=15, 29=20, 52=47, 53=2, 55=11, 57=30)
 1 816c5cae-6aee-4aa8-acd8-f6fdd8eef6cc
 2 7257389f-c49d-4b4e-bce8-9e66e36fbbd4
 3 2a7aaabd-a48d-47b4-8745-b3970d0ac0a5
@@ -155,7 +155,7 @@ W: Welcome back to HistoryVID, where today we break down the mental stamina of t
 8 8ddf8695-f4a3-4e0f-bc65-cff30b010a79
 9 45a165eb-d805-4c67-a600-1de83850b891
 10 aed5d084-c235-4ce7-9438-b9b413e52895
-11 8132a4ba-0031-4604-b607-ae4864853ed7
+11 56583505-eb6d-4a70-9d53-32fedac5212e [reroll v2 20261114_193248; v1 8132a4ba ip_detected (glowing-papers cabinet) — restaged bright busy filing room]
 12 8336821b-1d8d-4a71-966d-1dbab21a4a8e
 13 4e9f31f7-6156-440d-ae74-d787557f5c52
 14 d938fb97-6fa6-4e54-ba3a-1c18057c31ee
@@ -192,9 +192,9 @@ W: Welcome back to HistoryVID, where today we break down the mental stamina of t
 47 485507d3-7e4c-4334-867c-b95dda54d0f5
 48 2ca4b8d2-bb86-4ba7-97aa-5970a5aac29a
 49 a43cd6a8-a2af-4c7a-90f9-8ce81c5ecf86
-50 59b34aef-0051-4143-88a5-c4e97fa7dd49
+50 1381bd1f-91f8-4e3f-8c7a-b91b932fbade [reroll v2 20261114_193248; v1 59b34aef ip_detected (lone weary close-up) — restaged group ride in rain]
 51 84085cb3-5c36-4ac0-8113-b2a6cde5ee7f
 54 587356f1-2500-4194-bd54-33f70ba806b9
 56 4954aca1-8139-47b3-a556-c1b56b6750a0
-58 6a7004ae-5fbf-4450-b991-390cd59f601f
+58 fec070aa-3471-4e8b-8c63-036e0477bf26 [reroll v2 20261114_193248; v1 6a7004ae ip_detected (lone silhouette at map) — restaged officers planning at wall map]
 59 e249ec82-c254-4118-8906-725c951fdeb7
