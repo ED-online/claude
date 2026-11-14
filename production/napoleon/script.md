@@ -2,7 +2,7 @@
 # "How Napoleon Built an Empire on 4 Hours of Sleep (10 Minute Story)"
 
 Length: 10:00 = 60 blocks × 10s (W + 1–59). Narrator: Arthur (voice_id 30fc8796-ceb6-4a66-b3a7-4a145ef7f346, seed_audio).
-Gate: assembler metric (ffmpeg silencedetect noise=-45dB:d=0.25), speech 7.800–9.500s per take.
+Gate: assembler metric (silencedetect -45dB:d=0.25), speech 7.800-9.500s. NOTE (learned this ep): the assembler ALSO subtracts a trailing silence auto-closed within 0.2s of EOF (se=s_before) - measure with assemble_final.sh's exact awk, not duration-lead alone.
 Video: seedance_2_0, fast, 720p, 10s, 16:9, style key c773f44c-9dd7-48f9-9d3d-964f5cf5e293 (role image_references). Assembly: recipe v2 (normalize sources, local HTTP serve, single finish_video.sh pass).
 User outline: hook (speed/stamina/calculation) / 4-hour sleep & micro-naps / Grande Armée marching & Corps d'Armée + Boulogne→Ulm 1805 / Austerlitz patience under pressure / the limits: Russia 1812 & Waterloo 1815 / takeaways (compartments, speed, recovery). All branding HistoryVID.
 
@@ -86,10 +86,10 @@ W: Welcome back to HistoryVID, where today we break down the mental stamina of t
 0 3aaeb13e-9415-4b1c-9ced-c14b6c3cea50 [150447] 8.959
 1 e6e7563b-697e-48a3-bdb1-e41231ef0cf2 [143819] 8.866
 2 2f0bd41f-a9d3-4015-b38c-5aaaac5f0a5a [153203] 8.559
-3 74cb947a-ad2a-49de-93f1-cfa32155f01f [143818] 7.872
+3 4b9bb741-a17a-4ba9-a384-ee28bb648a18 [194503] 8.623 (assembler-exact; v1 74cb947a read 7.618 by assembler tail rule)
 4 3bea63ae-59f1-45d1-894d-25f462a624c3 [153203] 8.728
 5 7e30c580-7f0c-4ce0-bcb6-588a7cead75f [143818] 9.247
-6 c99f6c23-34e8-4415-9c21-28dcdd9de97f [150446] 8.120
+6 90ae9fc5-aa17-4f61-9952-ade75b3615a5 [194504] 8.216 (assembler-exact; v1 c99f6c23 read 6.501)
 7 caafbb89-778b-46b2-95f7-f4a400bb8127 [150447] 8.489
 8 2d1e7ed3-7125-48ab-80db-cc4e6cc60ac1 [150447] 9.248
 9 0eac5e13-aac6-468c-aa52-9f59586489f2 [151619] 8.954
@@ -97,7 +97,7 @@ W: Welcome back to HistoryVID, where today we break down the mental stamina of t
 11 3699d03c-3453-4b06-99e3-485528fdb706 [150446] 8.776
 12 86b65760-ceee-4f60-9a69-bc5631837b8f [150446] 9.069
 13 f6eb9335-a0f7-44cc-9f03-4ff526634d37 [151619] 8.924
-14 7c90b6e0-924f-40c0-8924-fbb39e6f3519 [143936] 7.982
+14 7a9a38e7-fbc4-4025-9307-7b4d1d945847 [194503] 8.444 (assembler-exact; v1 7c90b6e0 read 7.730)
 15 1848edd7-5306-4c94-a4a0-44bcdc97cd8f [143935] 9.423
 16 f2b8bcf7-5f0f-421c-a3ee-db741ad2552a [150447] 8.345
 17 15349cad-f49e-47ff-a314-ed16d1984bdc [150539] 9.347
@@ -115,7 +115,7 @@ W: Welcome back to HistoryVID, where today we break down the mental stamina of t
 29 e38df22d-0124-4427-ba34-a336d90bfa9d [144041] 9.147
 30 9ce9f10c-3f99-4908-8037-44a4dc603813 [150539] 8.495
 31 3ff43612-865d-48c6-92ad-258c362cfbd8 [150539] 8.990
-32 c39ad546-e011-4c5e-996a-2be7f3629165 [151619] 9.067
+32 bdd533df-f645-4cbc-83de-994c987544d6 [194503] 9.407 (assembler-exact; v1 c39ad546 read 7.566)
 33 c6e5234e-bc27-41fa-9ef8-52e59b8620f3 [144041] 9.119
 34 5fbbe83a-aa5d-4cf7-9122-fea08167bc6c [151619] 9.214
 35 43a3df18-f7f6-4db8-aad9-1dbe43347f04 [150613] 9.188
