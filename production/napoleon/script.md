@@ -198,3 +198,10 @@ W: Welcome back to HistoryVID, where today we break down the mental stamina of t
 56 4954aca1-8139-47b3-a556-c1b56b6750a0
 58 fec070aa-3471-4e8b-8c63-036e0477bf26 [reroll v2 20261114_193248; v1 6a7004ae ip_detected (lone silhouette at map) — restaged officers planning at wall map]
 59 e249ec82-c254-4118-8906-725c951fdeb7
+
+## FINAL VIDEO — v1 DEFINITIVE (20261114)
+https://d2ol7oe51mr4n9.cloudfront.net/user_3GBoTSXUKejOgahxesIrDMZcVm7/06bbb0a7-e7d9-4bd4-abee-01eef23aa31a.mp4
+60 blocks x 10s = 600s (actual 600.342s), decode-validated, narration in all 60 windows (assembly sidecar 60/60).
+Known cosmetic check: "audio 600.341 vs video 600.042" = the usual 0.3s inaudible tail (same as ep2/ep3); delivered on DONE.
+Assembly: recipe v2 on XL sandbox via tracked background job (nohup on XL dies when the sandbox idles out — use background:true).
+Voice swaps after assembler-exact gate: blocks 3, 6, 14, 32 (see roster). Pausey-take WARNs (non-blocking): blocks 19, 28, 38.
